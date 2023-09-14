@@ -1,0 +1,13 @@
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+D:\Cursos\C#\Programas\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\Cursos\C#\Programas\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Programas\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\Cursos\C#\Programas\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+D:\Cursos\C#\Programas\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Cursos\C#\Programas\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\Cursos\C#\Programas\Interfaces\Interfaces\bin\Debug\Interfaces.pdb

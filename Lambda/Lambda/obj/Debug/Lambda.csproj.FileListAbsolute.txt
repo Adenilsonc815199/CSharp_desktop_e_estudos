@@ -1,0 +1,12 @@
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Lambda\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Lambda\Lambda\obj\Debug\Lambda.pdb
+F:\Cursos\C#\Programas\Lambda\Lambda\bin\Debug\Lambda.exe.config
+F:\Cursos\C#\Programas\Lambda\Lambda\bin\Debug\Lambda.exe
+F:\Cursos\C#\Programas\Lambda\Lambda\bin\Debug\Lambda.pdb
+F:\Cursos\C#\Programas\Lambda\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
+F:\Cursos\C#\Programas\Lambda\Lambda\obj\Debug\Lambda.exe
+F:\Cursos\C#\Programas\Lambda\Lambda\obj\Debug\Lambda.pdb

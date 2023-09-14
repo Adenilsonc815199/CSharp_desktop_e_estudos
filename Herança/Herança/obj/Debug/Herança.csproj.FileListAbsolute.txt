@@ -1,0 +1,6 @@
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Herança\Herança\obj\Debug\Herança.csprojResolveAssemblyReference.cache
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Herança\Herança\bin\Debug\Herança.exe.config
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Herança\Herança\bin\Debug\Herança.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Herança\Herança\bin\Debug\Herança.pdb
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Herança\Herança\obj\Debug\Herança.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Herança\Herança\obj\Debug\Herança.pdb

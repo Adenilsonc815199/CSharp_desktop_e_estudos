@@ -1,0 +1,7 @@
+D:\Cursos\C#\Programas\Herança\Herança\obj\x86\Debug\Herança.csprojAssemblyReference.cache
+D:\Cursos\C#\Programas\Herança\Herança\obj\x86\Debug\Herança.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Programas\Herança\Herança\bin\Debug\ConsoleApplication.exe.config
+D:\Cursos\C#\Programas\Herança\Herança\bin\Debug\ConsoleApplication.exe
+D:\Cursos\C#\Programas\Herança\Herança\bin\Debug\ConsoleApplication.pdb
+D:\Cursos\C#\Programas\Herança\Herança\obj\x86\Debug\ConsoleApplication.exe
+D:\Cursos\C#\Programas\Herança\Herança\obj\x86\Debug\ConsoleApplication.pdb
