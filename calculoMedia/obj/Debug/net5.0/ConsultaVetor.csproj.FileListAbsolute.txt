@@ -1,0 +1,16 @@
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\bin\Debug\net5.0\ConsultaVetor.exe
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\bin\Debug\net5.0\ConsultaVetor.deps.json
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\bin\Debug\net5.0\ConsultaVetor.runtimeconfig.json
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\bin\Debug\net5.0\ConsultaVetor.runtimeconfig.dev.json
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\bin\Debug\net5.0\ConsultaVetor.dll
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\bin\Debug\net5.0\ref\ConsultaVetor.dll
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\bin\Debug\net5.0\ConsultaVetor.pdb
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ConsultaVetor.csproj.AssemblyReference.cache
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ConsultaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ConsultaVetor.AssemblyInfoInputs.cache
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ConsultaVetor.AssemblyInfo.cs
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ConsultaVetor.csproj.CoreCompileInputs.cache
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ConsultaVetor.dll
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ref\ConsultaVetor.dll
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ConsultaVetor.pdb
+C:\Users\adenilson.santos\source\repos\ConsultaVetor\obj\Debug\net5.0\ConsultaVetor.genruntimeconfig.cache
