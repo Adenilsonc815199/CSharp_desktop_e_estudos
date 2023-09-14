@@ -1,0 +1,19 @@
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
+F:\Cursos\C#\Programas\Arrays\Arrays\bin\Debug\Arrays.exe.config
+F:\Cursos\C#\Programas\Arrays\Arrays\bin\Debug\Arrays.exe
+F:\Cursos\C#\Programas\Arrays\Arrays\bin\Debug\Arrays.pdb
+F:\Cursos\C#\Programas\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+F:\Cursos\C#\Programas\Arrays\Arrays\obj\Debug\Arrays.exe
+F:\Cursos\C#\Programas\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\Cursos\C#\Programas\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Cursos\C#\Programas\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Cursos\C#\Programas\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Cursos\C#\Programas\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Programas\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Cursos\C#\Programas\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\Cursos\C#\Programas\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache

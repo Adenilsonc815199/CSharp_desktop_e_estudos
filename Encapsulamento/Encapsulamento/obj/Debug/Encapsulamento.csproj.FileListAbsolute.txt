@@ -1,0 +1,12 @@
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csprojResolveAssemblyReference.cache
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb
+D:\Cursos\C#\Programas\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+D:\Cursos\C#\Programas\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+D:\Cursos\C#\Programas\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+D:\Cursos\C#\Programas\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Programas\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+D:\Cursos\C#\Programas\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

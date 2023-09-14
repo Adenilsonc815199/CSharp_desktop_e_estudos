@@ -1,0 +1,13 @@
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\adenilson.santos\Desktop\Curso .Net\Programas\Collections\Collections\obj\Debug\Collections.pdb
+D:\Cursos\C#\Programas\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\Cursos\C#\Programas\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Programas\Collections\Collections\obj\Debug\Collections.exe
+D:\Cursos\C#\Programas\Collections\Collections\obj\Debug\Collections.pdb
+D:\Cursos\C#\Programas\Collections\Collections\bin\Debug\Collections.exe.config
+D:\Cursos\C#\Programas\Collections\Collections\bin\Debug\Collections.exe
+D:\Cursos\C#\Programas\Collections\Collections\bin\Debug\Collections.pdb

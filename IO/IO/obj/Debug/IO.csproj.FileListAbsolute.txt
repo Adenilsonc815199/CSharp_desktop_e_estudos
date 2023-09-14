@@ -1,0 +1,20 @@
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\IO\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\IO\IO\bin\Debug\IO.exe.config
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\IO\IO\bin\Debug\IO.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\IO\IO\bin\Debug\IO.pdb
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\IO\IO\obj\Debug\IO.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\IO\IO\obj\Debug\IO.pdb
+F:\Cursos\C#\Programas\IO\IO\bin\Debug\IO.exe.config
+F:\Cursos\C#\Programas\IO\IO\bin\Debug\IO.exe
+F:\Cursos\C#\Programas\IO\IO\bin\Debug\IO.pdb
+F:\Cursos\C#\Programas\IO\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+F:\Cursos\C#\Programas\IO\IO\obj\Debug\IO.exe
+F:\Cursos\C#\Programas\IO\IO\obj\Debug\IO.pdb
+E:\Cursos\C#\exemplos C#\Programas Caelum\IO\IO\bin\Debug\IO.exe.config
+E:\Cursos\C#\exemplos C#\Programas Caelum\IO\IO\bin\Debug\IO.exe
+E:\Cursos\C#\exemplos C#\Programas Caelum\IO\IO\bin\Debug\IO.pdb
+E:\Cursos\C#\exemplos C#\Programas Caelum\IO\IO\obj\Debug\IO.csproj.AssemblyReference.cache
+E:\Cursos\C#\exemplos C#\Programas Caelum\IO\IO\obj\Debug\IO.csproj.SuggestedBindingRedirects.cache
+E:\Cursos\C#\exemplos C#\Programas Caelum\IO\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+E:\Cursos\C#\exemplos C#\Programas Caelum\IO\IO\obj\Debug\IO.exe
+E:\Cursos\C#\exemplos C#\Programas Caelum\IO\IO\obj\Debug\IO.pdb
