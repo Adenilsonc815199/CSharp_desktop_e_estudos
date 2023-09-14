@@ -1,0 +1,12 @@
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\String\String\bin\Debug\String.exe.config
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\String\String\bin\Debug\String.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\String\String\bin\Debug\String.pdb
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\String\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\String\String\obj\Debug\String.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\String\String\obj\Debug\String.pdb
+F:\Cursos\C#\Programas\String\String\bin\Debug\String.exe.config
+F:\Cursos\C#\Programas\String\String\bin\Debug\String.exe
+F:\Cursos\C#\Programas\String\String\bin\Debug\String.pdb
+F:\Cursos\C#\Programas\String\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+F:\Cursos\C#\Programas\String\String\obj\Debug\String.exe
+F:\Cursos\C#\Programas\String\String\obj\Debug\String.pdb

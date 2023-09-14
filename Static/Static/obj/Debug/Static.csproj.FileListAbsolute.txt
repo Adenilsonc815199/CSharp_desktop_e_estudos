@@ -1,0 +1,6 @@
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Static\Static\bin\Debug\Static.exe.config
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Static\Static\bin\Debug\Static.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Static\Static\bin\Debug\Static.pdb
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Static\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Static\Static\obj\Debug\Static.exe
+c:\users\adenilson.santos\documents\visual studio 2017\Projects\Static\Static\obj\Debug\Static.pdb
